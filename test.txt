@@ -1,3 +1,6 @@
 2020/06/16 
 11:14:00
 test local git an github is working
+2020/06/16
+16:06:00
+test some requests
